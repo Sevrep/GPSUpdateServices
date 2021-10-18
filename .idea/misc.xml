@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/sevre/AndroidStudioProjects/GPSUpdateServices/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sevre/AndroidStudioProjects/GPSUpdateServices/app/src/main/res/layout/activity_postman_position.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sevre/AndroidStudioProjects/GPSUpdateServices/app/src/main/res/layout/custom_row_item.xml" value="0.4" />
+        <entry key="..\:/Users/sevre/AndroidStudioProjects/GPSUpdateServices/app/src/main/res/layout/row_item.xml" value="0.4" />
       </map>
     </option>
   </component>
